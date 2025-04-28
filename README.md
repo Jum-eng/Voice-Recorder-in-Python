@@ -19,7 +19,7 @@ Your voice will be recorded and saved automatically as output.wav in the project
  output.wav  -   Generated audio recording (after you run the code)
  README.md   -   Project documentation (this file)
 
- 🎯 Future Improvements (Optional Ideas)
+ ## 5.🎯 Future Improvements (Optional Ideas)
 Allow choosing between different input devices (microphones).
 
 Add a graphical user interface (GUI) for easier interaction.
