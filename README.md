@@ -14,8 +14,7 @@ Your voice will be recorded and saved automatically as output.wav in the project
 
 📂 Project Structure
 
-VoiceRecorder/
-│
-├── main.py        # Main Python script to record audio
-├── output.wav     # Generated audio recording (after you run the code)
-└── README.md      # Project documentation (this file)
+# VoiceRecorder
+ main.py    -    Main Python script to record audio
+ output.wav  -   Generated audio recording (after you run the code)
+ README.md   -   Project documentation (this file)
